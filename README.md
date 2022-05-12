@@ -1,2 +1,2 @@
 # Combination-and-Permutations
- difference between combination and permutations with code example.
+It shows the difference between combinations and permutations.
